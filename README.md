@@ -78,16 +78,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-> 🔧 *Replace these with your actual pinned repos*
-
-- 🧠 **[Project 1]** — Brief description of your ML/DL project
-- 🔍 **[Project 2]** — Brief description of your RAG/LLM project
-- 🗄️ **[Project 3]** — Brief description of your database/AI backend project
-
----
-
 <p align="center">
   <i>"Building intelligent systems, one model at a time."</i>
 </p>
