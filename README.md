@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Ragul Jayakumar</h1>
 <h3 align="center">Final Year AI & ML Engineering Student | AI · Deep Learning · RAG · Databases</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ragul3008&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/ragul-jayakumar-b680b8298/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
@@ -61,8 +61,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="[https://github-readme-stats-eight-mu.vercel.app/api/top-langs/?username=Ragul3008&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages](https://github-readme-stats-eight-mu.vercel.app/api/top-langs/?username=Ragul3008&layout=compact&theme=tokyonight&hide_border=true)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ragul3008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-mu.vercel.app/api/top-langs/?username=Ragul3008&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
 </p>
 
 ---
