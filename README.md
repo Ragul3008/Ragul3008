@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ragul Jayakumar</h1>
-<h3 align="center">Final Year AI & ML Engineering Student | AI · Deep Learning · RAG · Databases</h3>
+<h3 align="center">AI & ML Engineer | AI · Deep Learning · RAG · Databases</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ragul3008&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
